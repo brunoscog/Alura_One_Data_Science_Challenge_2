@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="brunoscog-cover.jpg" alt="Imagem de capa do projeto">
+  <img src="https://raw.githubusercontent.com/brunoscog/Alura_One_Data_Science_Challenge_1/refs/heads/main/brunoscog-cover.jpg" alt="Imagem de capa do projeto">
 </p>
 
 <h1 align="center"> ONE | Alura - Challenge 2: Análise de Evasão de Clientes (Churn) </h1>
