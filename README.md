@@ -61,9 +61,9 @@ O trabalho envolveu um processo completo de **ETL (Extração, Transformação e
 ## ▶️ Como Executar
 
 ```bash
-# Clone o repositório (substitua 'seu_usuario' pelo seu nome de usuário no GitHub)
-git clone [https://github.com/seu_usuario/nome_do_seu_repositorio.git](https://github.com/seu_usuario/nome_do_seu_repositorio.git)
-cd nome_do_seu_repositorio
+# Clone o repositório
+git clone https://github.com/brunoscog/Alura_One_Data_Science_Challenge_2.git
+cd Alura_One_Data_Science_Challenge_2
 
 # Instale as bibliotecas necessárias
 pip install pandas matplotlib seaborn requests
